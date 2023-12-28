@@ -1,3 +1,11 @@
+* {
+    background-image: url(./summer_2010_by_chandang_d2sh5bc.jpg);
+}
+
+
+
+
+
 /* Apply some basic styling to the entire form */
 form {
     max-width: 400px;
@@ -6,6 +14,7 @@ form {
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f9f9f9;
+    /* background-image: url(./summer_2010_by_chandang_d2sh5bc.jpg); */
 }
 
 /* Style the form header (e.g., "Contact Us") */

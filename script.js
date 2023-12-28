@@ -16,7 +16,6 @@
         // Display a message on the page
         var messageDiv = document.getElementById("messageDiv");
         messageDiv.innerHTML = "Thank you, " + name + "! Your message has been sent.";
-
-        // You can perform additional actions or submit the data to a server here
+        //You can perform additional actions or submit the data to a server here
     }
 </script>
